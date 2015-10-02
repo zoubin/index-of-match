@@ -1,4 +1,4 @@
-# x-index-of
+# x-index-of [![Build Status](https://travis-ci.org/zoubin/x-index-of.svg)](https://travis-ci.org/zoubin/x-index-of)
 Look up indexes in a collection with custom compare function.
 
 - [Specify a searching range](#custom-range)
