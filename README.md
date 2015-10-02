@@ -68,7 +68,7 @@ console.log(
 
 ```
 
-### Custom-compare
+### Custom compare
 Compare the custom way.
 
 ```javascript
@@ -84,9 +84,8 @@ console.log(
     cmp: function (a, b) {
       return a == b;
     },
-    filter: -1,
   })
-  // 3
+  // 1
 );
 
 console.log(

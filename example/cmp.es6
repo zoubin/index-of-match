@@ -12,9 +12,8 @@ console.log(
     cmp: function (a, b) {
       return a == b;
     },
-    filter: -1,
   })
-  // 3
+  // 1
 );
 
 console.log(
