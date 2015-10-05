@@ -7,9 +7,7 @@ Look up indexes in a collection with custom compare function.
 
 ## Usage
 
-```javascript
-var indexOf = require('x-index-of');
-```
+[![npm](https://nodei.co/npm/x-index-of.png)](https://www.npmjs.com/package/x-index-of)
 
 ### Custom range
 Specify the searching range.
